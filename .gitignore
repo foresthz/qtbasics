@@ -1,3 +1,10 @@
 build*Debug
-*.user
+*.pro.user
 *.swp
+
+GeneratedFiles
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj
+debug
+Win32/Debug
